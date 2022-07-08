@@ -1,0 +1,23 @@
+1. Selezionare tutte le nazioni il cui nome inizia con la P e la cui area è maggiore di 1000 kmq
+
+2. Selezionare le nazioni il cui national day è avvenuto più di 100 anni fa
+
+3. Selezionare il nome delle regioni del continente europeo, inordine alfabetico
+
+4. Contare quante lingue sono parlate in Italia
+
+5. Selezionare quali nazioni non hanno un national day
+
+6. Per ogni nazione selezionare il nome, la regione e il continente
+
+7. Modificare la nazione Italy, inserendo come national day il 2 giugno 1946
+
+8. Per ogni regione mostrare il valore dell'area totale
+
+9. Selezionare le lingue ufficiali dell'Albania
+
+10. Selezionare il Gross domestic product (GDP) medio dello United Kingdom tra il 2000 e il 2010
+
+11. Selezionare tutte le nazioni in cui si parla hindi, ordinate dalla più estesa alla meno estesa
+
+12. Per ogni continente, selezionare il numero di nazioni con area superiore ai 10.000 kmq ordinando i risultati a partire dal continente che ne ha di più
